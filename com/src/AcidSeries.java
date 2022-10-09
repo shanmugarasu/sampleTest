@@ -40,6 +40,7 @@ public class AcidSeries {
 
 	public static void main(String args[]) {
 		printcombination(new char[] { 'A', 'A', 'N', 'A', 'N', 'A', 'N', 'A', 'N', 'A', 'N' });
+		System.out.println("Show me the results");
 	}
 
 }
