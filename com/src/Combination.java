@@ -27,7 +27,7 @@ public class Combination {
 
 	public static void main(String args[]) {
 		char[] sequence = { 'a', 'b', 'c', 'd', 'e' };
-		System.out.print("The combinations are: ");
+		System.out.print("The combinations are:= ");
 		printCombinations(sequence, sequence.length);
 	}
 }
